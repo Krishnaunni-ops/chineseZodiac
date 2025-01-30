@@ -39,6 +39,5 @@ Enter the year: 2000
 🔹 Support multiple languages  
 
 ## License  
-This project is licensed under the **MIT License**.  
-
+This project is intended for academic and learning purposes. All rights reserved.
 ---
