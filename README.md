@@ -1,4 +1,6 @@
+```markdown
 # Chinese Zodiac Calculator  
+
 
 ## Overview  
 The **Chinese Zodiac Calculator** is a simple Python script that determines the corresponding **Chinese Zodiac animal** for a given year. The program takes a **user-inputted year** and calculates the zodiac sign based on the **12-year cycle**.  
